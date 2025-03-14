@@ -1,7 +1,7 @@
 # EXPERIMENT--01-ALP-FOR-8086
-Name : Malligesh M
-Roll no : 212223230119
-Date of experiment : 14.03.25
+### Name : Malligesh M
+### Roll no : 212223230119
+### Date of experiment : 14.03.25
 
 
 ## Aim: To Write and execute ALP on fundamental arithmetic and logical operations
